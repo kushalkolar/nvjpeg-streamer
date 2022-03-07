@@ -1,0 +1,7 @@
+numpy
+matplotlib
+bokeh
+tifffile
+pandas
+opencv-python-headless
+voila
