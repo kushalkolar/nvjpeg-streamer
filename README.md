@@ -1,7 +1,7 @@
 # nvjpeg-streamer
 An attempt at live lossy encoding of raw imaging data for streaming calcium imaging data
 
-**UPDATE: DO NOT USE. BOKEH IS GARBAGE FOR THIS PURPOSE.**
+**UPDATE: DO NOT USE. BOKEH IS NOT OPTIMAL FOR THIS PURPOSE.**
 
 pygfx seeems promissing for this purpose! It also uses jpeg compression for improve performance so I was on the right trail
 
